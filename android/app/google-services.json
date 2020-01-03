@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "820848358309",
+    "firebase_url": "https://flutterloja-ea54e.firebaseio.com",
+    "project_id": "flutterloja-ea54e",
+    "storage_bucket": "flutterloja-ea54e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820848358309:android:44a00e8c3136ea5f",
+        "android_client_info": {
+          "package_name": "br.com.alissonlima.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820848358309-vtnl9ov8cvkn3n0rt95um2nvohfh8537.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4sEILrGgfoZXv3XnGKcvWKw0H_YDkZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
